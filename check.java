@@ -11,7 +11,7 @@ int n = s.nextInt();
 if(n<0){
 System.out.println("Positive");
 }
-elseif(n<0){
+else if(n<0){
 System.out.println("Negative");
 }
 else{
