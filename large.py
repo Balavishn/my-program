@@ -1,0 +1,5 @@
+a=int(input("First number:"))
+b=int(input("Second number:"))
+c=int(input("Third number:"))
+d= a>b and (a>c and a or c) or (b>c and b or c)
+print(d)
